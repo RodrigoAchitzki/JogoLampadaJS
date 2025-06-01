@@ -5,6 +5,6 @@ Eventos - click, mouseover, dblclick
 CSS - Transições, pseudo-elementos, z-index
 Estado - Controle da lâmpada (ligada/desligada/quebrada)
 API Externa - Integração com GIFs do Tenor<br></br>
-https://jogodalampada.netlify.app/
+https://jogodalampada.netlify.app/<br></br>
 
 ![image](https://github.com/user-attachments/assets/103c3493-afe9-4aa4-a427-ab8e12fbb78f)
