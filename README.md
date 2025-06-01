@@ -2,7 +2,5 @@
 
 https://jogodalampada.netlify.app/
 
-![Projeto web html](https://github.com/RodrigoAchitzki/JogoLampadaJS/assets/86386159/d3046445-5932-47d9-bd72-2e826a4de52e)
 
-
-
+![image](https://github.com/user-attachments/assets/103c3493-afe9-4aa4-a427-ab8e12fbb78f)
