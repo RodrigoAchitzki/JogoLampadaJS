@@ -1,5 +1,5 @@
 # JogoLampadaJS
-<h1> O legal da programação é que da pra aprender jogando, criei um jogo simples com interatividade. O Que utilizei neste projeto:</h1><br></br>
+<h1> O legal da programação é que da pra aprender jogando, criei um jogo simples com interatividade. O Que utilizei neste projeto?</h1><br></br>
 DOM - Manipulação de elementos HTML
 Eventos - click, mouseover, dblclick
 CSS - Transições, pseudo-elementos, z-index
